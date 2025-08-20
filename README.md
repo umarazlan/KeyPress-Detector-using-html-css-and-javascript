@@ -4,7 +4,7 @@ A simple interactive web application built with **HTML, CSS, and JavaScript** th
 
 
  📸 Screenshot
-(`![App Screenshot](screenshot.png)`)
+![App Screenshot](screenshot.png)
 
  🚀 Features
 - Detects any key pressed on the keyboard
