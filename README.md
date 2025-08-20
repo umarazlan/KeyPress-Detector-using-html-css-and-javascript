@@ -21,9 +21,6 @@ A simple interactive web application built with **HTML, CSS, and JavaScript** th
 📂 Project Setup
 Clone this repository and open the project in your browser:
 
-```bash
-Clone the repository
-git clone https://github.com/your-username/KeyPress-Detector.git 
 
 Navigate to the project folder
 cd KeyPress-Detector
@@ -43,4 +40,7 @@ Feel free to fork this project and submit a pull request.
 📜 License
 This project is licensed under the MIT License – see the LICENSE
  file for details.
+```bash
+Clone the repository
+git clone https://github.com/your-username/KeyPress-Detector.git 
 
