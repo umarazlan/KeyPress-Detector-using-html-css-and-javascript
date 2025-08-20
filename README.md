@@ -42,5 +42,5 @@ This project is licensed under the MIT License – see the LICENSE
  file for details.
 ```bash
 Clone the repository
-git clone https://github.com/your-username/KeyPress-Detector.git 
+git clone https://github.com/umarazlan/KeyPress-Detector-using-html-css-and-javascript.git 
 
